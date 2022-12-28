@@ -1,4 +1,4 @@
-<div align="center">
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,7 +19,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyon8254&show_icons=true&theme=vision-friendly-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyon8254&layout=compact&theme=vision-friendly-dark)</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyon8254&layout=compact&theme=vision-friendly-dark)
+</div>
